@@ -20,15 +20,15 @@ The algo :
 3. Get rating (Google way) 
 	  float *rate(char **filelist);
 		
-    anshul  Prashant
+	anshul  Prashant
 
 
 4. sort
 		int *sort(float *ratingarray);
 		
-     anshul Chetan
+     	anshul Chetan
 			
 5. create a html file with shortcuts to the files
-			void output( int *sorted);									
-
-        Prashant  Ashwani	  Rohan
+		void output( int *sorted);									
+	
+	Prashant Ashwani Rohan
